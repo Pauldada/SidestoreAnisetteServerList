@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Pauldada",
-      "address": "https://anisette.pauldada.top:10721"
+      "address": "https://anisette.pauldada.top"
     },
     {
       "name": "SideStore",
